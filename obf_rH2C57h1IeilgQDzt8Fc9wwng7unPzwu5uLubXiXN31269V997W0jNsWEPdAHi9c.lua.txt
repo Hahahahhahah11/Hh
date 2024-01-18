@@ -1,0 +1,3 @@
+_G.Name = "Bùi Tuấn Dú" -- Put You Name Script Here
+_G.Logo = "https://www.roblox.com/library/16024627406/Abc" -- Enter Your ID Image Here
+loadstring(Game:HttpGet"https://raw.githubusercontent.com/ImTienNguyenZ/NguyenTienSimpRose/main/NguyenMinhTienLoader")()
